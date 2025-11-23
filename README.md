@@ -9,12 +9,20 @@ Non-existence of educational platforms/informational systems; not driven by the 
 
 Solution:
 NetraSetu an app consisting of a smart AI voice assistant, braille converting software and compatibility for English language will help in breaking this educational gap for the visually impaired students. The app will have a minimalistic design to ensure easy understanding of the features. The user is expected to provide the app necessary sources to extract the information from. For example, if the teacher is teaching Chapter-1 Matter In our Surroundings (Grade 9) he/she can download the PDF from the NCERT portal and upload it in the app. 
+
+
 Features:-
+
 •	Smart AI voice Assistant. The student can navigate through the App using this assistant reducing dependence on teacher.
+
 •	Text To Braille feature where text will be converted to Braille using Unicode Braille System. English to braille conversion will be there.
+
 •	Braille Mind maps will be generated using AI
+
 •	It will also have the feature of converting the sources into summarized braille docs.
+
 •	The AI voice assistant can solve the child’s queries reducing constant dependence on the teacher.
+
 *NOTE: The braille documents are not in braille ASCII
 
 Conclusion:
